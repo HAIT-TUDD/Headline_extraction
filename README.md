@@ -2,7 +2,7 @@
 
 ## Documentation
 
-This is an example of a workflow to extract headlines in the "nationasozialistische" newspaper "Freiheitskampf" using the tool [LayoutParser](https://github.com/Layout-Parser/layout-parser). The extraction of headlines should be used to find manually annotated articles by HAIT researchers in the daily newspaper faster. Furthermore, a quantitative analysis could be performed in terms of size and wording of the headlines. This could give conclusions about the propagandistic effect of certain articles. The headline extraction will be complemented by a subsequent OCR processing. 
+This is an example of a workflow to extract headlines in the "nationalsozialistische" newspaper "Freiheitskampf" using the tool [LayoutParser](https://github.com/Layout-Parser/layout-parser). The extraction of headlines should be used to find manually annotated articles by HAIT researchers in the daily newspaper faster. Furthermore, a quantitative analysis could be performed in terms of size and wording of the headlines. This could give conclusions about the propagandistic effect of certain articles. The headline extraction will be complemented by a subsequent OCR processing. 
 
 
 ## Installation
