@@ -38,8 +38,7 @@ sudo apt-get install tesseract-ocr libtesseract-dev libleptonica-dev pkg-config
 ```
 
 ## Usage
-
-Im Ordner "Example_notebooks" befinden sich weitere Erklärung zur Benutztung des Tools und ein Beispiel Workflow. It explains once how to extract the headlines with a self-trained model and then perform OCR recognition using Tesserocr. 
+In the folder "Example_notebooks" you will find further explanation on how to use the tool and an example workflow. It explains once how to extract the headlines with a self-trained model and then perform OCR recognition using Tesserocr. 
 
 
 ## Training 
